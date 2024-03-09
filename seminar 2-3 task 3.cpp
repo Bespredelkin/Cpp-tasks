@@ -40,9 +40,9 @@ std::string WordDetector( const std::string& text )
     // Находим слово
     int maxCount = 0;
     std::string Wordisimo;
-    for(const auto& pair : сount)
+    for( const auto& pair : сount )
     {
-        if(pair.second > maxCount || (pair.second == maxCount && pair.first < Wordisimo))
+        if( pair.second > maxCount || ( pair.second == maxCount && pair.first < Wordisimo ))
         {
             maxCount = pair.second;
             Wordisimo = pair.first;
