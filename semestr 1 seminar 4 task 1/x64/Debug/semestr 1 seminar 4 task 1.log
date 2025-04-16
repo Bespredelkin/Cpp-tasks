@@ -1,0 +1,4 @@
+﻿  task 1.cpp
+C:\Users\danie\source\repos\semestr 1 seminar 4 task 1\semestr 1 seminar 4 task 1\task 1.cpp(30,17): error C7555: use of designated initializers requires at least '/std:c++20'
+C:\Users\danie\source\repos\semestr 1 seminar 4 task 1\semestr 1 seminar 4 task 1\task 1.cpp(31,17): error C7555: use of designated initializers requires at least '/std:c++20'
+C:\Users\danie\source\repos\semestr 1 seminar 4 task 1\semestr 1 seminar 4 task 1\task 1.cpp(32,17): error C7555: use of designated initializers requires at least '/std:c++20'
